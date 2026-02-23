@@ -167,7 +167,7 @@ body {
 
 @keyframes spin { to { transform: rotate(360deg); } }
 
-/* Mobile Specific Tweaks */
+/* Mobile Specific Tweaks s*/
 @media (max-width: 480px) {
   .app-container {
     margin: 0;
